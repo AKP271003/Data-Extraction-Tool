@@ -1,0 +1,23 @@
+table_name|column_name
+huge_table|case_number
+huge_table2|case_number
+huge_table3|case_number
+huge_table4|case_number
+huge_table5|case_number
+huge_table6|case_number
+huge_table7|case_number
+huge_table8|case_number
+huge_table9|case_number
+huge_table10|case_number
+huge_table11|txn_id
+huge_table12|txn_id
+huge_table13|txn_id
+huge_table14|txn_id
+huge_table15|txn_id
+huge_table16|txn_id
+huge_table17|txn_id
+huge_table18|txn_id
+huge_table19|txn_id
+huge_table20|txn_id
+
+query|select_query|SELECT {select_clause} FROM {table_name} WHERE {column_name} IN (%s)
